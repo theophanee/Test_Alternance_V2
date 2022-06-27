@@ -1,6 +1,7 @@
 # Test_Alternance_V2
 
 Voici la deuxième version du test sans framework. Je n'avais appris qu'à coder avec React.
+Lien vidéo démonstration : https://youtu.be/mZrOa6zZNeg
 
 ## Utilisation
 
