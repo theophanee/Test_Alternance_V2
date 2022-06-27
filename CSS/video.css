@@ -1,0 +1,41 @@
+body{
+    background-image: url(Adchoice.png);
+    background-size: 90%;
+    background-position-x: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+video{
+    height: 400px;
+    position: absolute;
+    padding-top: 12%;
+    padding-left: 10%;
+}
+
+#retour{
+    height: 30px;
+    width: 65px;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    margin-top: 40%;
+    margin-left: 8%;
+}
+
+button{
+    border: none;
+    background: none;
+}
+
+#nbClicD,#nbClicE{
+    color:white;
+    text-align: center;
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 27%;
+    background-color: rgb(189, 173, 24) ;
+    border-radius: 50%;
+    width: 30px;
+  }
